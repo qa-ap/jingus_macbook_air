@@ -2,5 +2,5 @@
 // 추가하는 작업에서는 git init 할 필요 없음
 git add .
 git status
-git commit -m "commitName"
+git commit -m "Upload by Automated Script"
 git push origin master
